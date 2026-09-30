@@ -1,0 +1,12 @@
+interface:
+  display_name: "Zeno QuickBooks Analysis"
+  short_description: "Answer questions from reports and mirrors"
+  default_prompt: "Use $zeno-qb-analysis to answer this question from my books."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "zeno-for-qb"
+      description: "Local Zeno for QuickBooks Desktop tools"
+      transport: "stdio"
+policy:
+  allow_implicit_invocation: true

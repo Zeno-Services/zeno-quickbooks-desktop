@@ -1,0 +1,12 @@
+interface:
+  display_name: "Zeno QuickBooks Setup"
+  short_description: "Connect company files and authorization"
+  default_prompt: "Use $zeno-qb-setup to set up my QuickBooks company files."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "zeno-for-qb"
+      description: "Local Zeno for QuickBooks Desktop tools"
+      transport: "stdio"
+policy:
+  allow_implicit_invocation: true

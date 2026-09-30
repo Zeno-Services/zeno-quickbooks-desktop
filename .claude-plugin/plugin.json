@@ -1,0 +1,14 @@
+{
+  "name": "zeno-quickbooks-desktop",
+  "version": "1.14.0",
+  "description": "Bookkeeping workflows for QuickBooks Desktop through the local Zeno for QuickBooks Desktop MCP server on Windows: set up company files, answer questions from the books, prepare batches a person reviews before anything posts, correct posted work, and keep a record for the next session.",
+  "author": {
+    "name": "Zeno Services, LLC",
+    "email": "support@zenofirm.com",
+    "url": "https://zenofirm.com"
+  },
+  "homepage": "https://zenofirm.com/docs/quickbooks-desktop",
+  "repository": "https://github.com/Zeno-Services/zeno-quickbooks-desktop",
+  "license": "MIT",
+  "keywords": ["quickbooks", "quickbooks-desktop", "bookkeeping", "accounting", "windows"]
+}

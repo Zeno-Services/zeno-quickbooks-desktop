@@ -1,0 +1,12 @@
+interface:
+  display_name: "Zeno QuickBooks Corrections"
+  short_description: "Fix, void, delete, or merge existing bookkeeping"
+  default_prompt: "Use $zeno-qb-corrections to fix this transaction in QuickBooks."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "zeno-for-qb"
+      description: "Local Zeno for QuickBooks Desktop tools"
+      transport: "stdio"
+policy:
+  allow_implicit_invocation: true

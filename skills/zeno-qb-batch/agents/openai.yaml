@@ -1,0 +1,12 @@
+interface:
+  display_name: "Zeno QuickBooks Batch"
+  short_description: "Plan, review, and post controlled batches"
+  default_prompt: "Use $zeno-qb-batch to review my pending bookkeeping batch."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "zeno-for-qb"
+      description: "Local Zeno for QuickBooks Desktop tools"
+      transport: "stdio"
+policy:
+  allow_implicit_invocation: true

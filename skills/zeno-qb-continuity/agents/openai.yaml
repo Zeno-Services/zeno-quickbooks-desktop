@@ -1,0 +1,12 @@
+interface:
+  display_name: "Zeno QuickBooks Continuity"
+  short_description: "Resume, document, and hand off bookkeeping"
+  default_prompt: "Use $zeno-qb-continuity to show what bookkeeping is still open."
+dependencies:
+  tools:
+    - type: "mcp"
+      value: "zeno-for-qb"
+      description: "Local Zeno for QuickBooks Desktop tools"
+      transport: "stdio"
+policy:
+  allow_implicit_invocation: true
