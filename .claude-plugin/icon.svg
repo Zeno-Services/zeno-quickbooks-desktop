@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 256 256" role="img" aria-label="Zeno logo">
+  <rect x="4" y="4" width="248" height="248" rx="56" fill="#0D6B66"/>
+  <g transform="translate(128 128) scale(1.16) translate(-128 -128)">
+    <rect x="52" y="68" width="86" height="132" rx="14" fill="#FFFFFF" opacity=".52" transform="rotate(-13 95 134)"/>
+    <rect x="118" y="68" width="86" height="132" rx="14" fill="#FFFFFF" opacity=".74" transform="rotate(13 161 134)"/>
+    <rect x="84" y="50" width="88" height="156" rx="15" fill="#FFFFFF"/>
+    <g fill="#0D6B66">
+      <circle cx="101" cy="86" r="5" opacity=".42"/>
+      <rect x="114" y="81" width="42" height="10" rx="5" opacity=".42"/>
+      <circle cx="101" cy="116" r="5" opacity=".68"/>
+      <rect x="114" y="111" width="42" height="10" rx="5" opacity=".68"/>
+      <circle cx="101" cy="146" r="5"/>
+      <rect x="114" y="141" width="42" height="10" rx="5"/>
+    </g>
+  </g>
+</svg>
