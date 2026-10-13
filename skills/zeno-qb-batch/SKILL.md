@@ -5,7 +5,7 @@ description: Prepare, review, apply, or reverse a controlled bookkeeping batch i
 
 # Zeno QuickBooks Batch
 
-Use the `qb_*` tools from the local Zeno for QuickBooks Desktop MCP server.
+Use the `qb_*` tools from Zeno, the local MCP server on Windows.
 Treat the review boundary as mandatory.
 
 ## Resume Before Creating

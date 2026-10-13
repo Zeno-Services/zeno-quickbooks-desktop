@@ -5,7 +5,7 @@ description: Answer financial and operational questions from QuickBooks Desktop 
 
 # Zeno QuickBooks Analysis
 
-Use the `qb_*` tools from the local Zeno for QuickBooks Desktop MCP server,
+Use the `qb_*` tools from Zeno, the local MCP server on Windows,
 and choose one route:
 
 - Use `qb_report` for a statement QuickBooks itself produces: profit and loss,

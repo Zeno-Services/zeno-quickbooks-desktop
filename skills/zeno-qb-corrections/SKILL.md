@@ -5,7 +5,7 @@ description: Fix, void, delete, or merge what is already in QuickBooks Desktop t
 
 # Zeno QuickBooks Corrections
 
-Use the `qb_*` tools from the local Zeno for QuickBooks Desktop MCP server.
+Use the `qb_*` tools from Zeno, the local MCP server on Windows.
 This is the riskiest surface in the product: everything here changes or
 removes work that already exists, some of it with no way back. Slower is
 correct.

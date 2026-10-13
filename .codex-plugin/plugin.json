@@ -1,6 +1,6 @@
 {
   "name": "zeno-quickbooks-desktop",
-  "version": "1.14.0",
+  "version": "1.17.0",
   "description": "Controlled bookkeeping workflows for the local Zeno QuickBooks Desktop MCP server.",
   "author": {
     "name": "Zeno Services, LLC",
@@ -11,9 +11,9 @@
   "keywords": ["quickbooks", "bookkeeping", "accounting", "mcp"],
   "skills": "./skills/",
   "interface": {
-    "displayName": "Zeno for QuickBooks Desktop",
+    "displayName": "Zeno",
     "shortDescription": "Review-gated bookkeeping in local QuickBooks",
-    "longDescription": "Workflow skills for the locally installed Zeno for QuickBooks Desktop MCP server on Windows. Set up company files, analyze books, prepare and review batches, and preserve a complete work record without sending the company file to the cloud.",
+    "longDescription": "Workflow skills for Zeno, installed on Windows and working with QuickBooks Desktop. Set up company files, analyze books, prepare and review batches, and preserve a complete work record without sending the company file to the cloud.",
     "developerName": "Zeno Services, LLC",
     "category": "Productivity",
     "capabilities": ["Read", "Write"],

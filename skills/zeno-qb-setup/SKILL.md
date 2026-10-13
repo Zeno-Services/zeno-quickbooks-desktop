@@ -1,11 +1,11 @@
 ---
 name: zeno-qb-setup
-description: Set up or diagnose Zeno for QuickBooks Desktop on a Windows workstation, including MCP availability, company discovery and registration, read-only status, and QuickBooks authorization. Use when the user is installing, connecting, adding a client file, or cannot get the first QuickBooks connection to work.
+description: Set up or diagnose Zeno on a Windows workstation, including MCP availability, company discovery and registration, read-only status, and QuickBooks authorization. Use when the user is installing, connecting, adding a client file, or cannot get the first QuickBooks connection to work.
 ---
 
 # Zeno QuickBooks Setup
 
-Use the `qb_*` tools from the local Zeno for QuickBooks Desktop MCP server.
+Use the `qb_*` tools from Zeno, the local MCP server on Windows.
 If they are unavailable, say that the Windows Zeno installer
 (zenofirm.com/quickbooks-desktop) must run on the same workstation as
 QuickBooks, then the chat client (Claude, the ChatGPT desktop app or Codex)

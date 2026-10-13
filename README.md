@@ -1,4 +1,4 @@
-# Zeno for QuickBooks Desktop
+# Zeno
 
 Bookkeeping in QuickBooks Desktop with a person's review before anything posts.
 This plugin teaches Claude, Codex and the ChatGPT desktop app how to work a
@@ -11,7 +11,7 @@ that is already posted, and leave a record the next session can pick up.
 
 - A Windows PC with QuickBooks Desktop (Pro, Premier, Accountant or
   Enterprise) installed and the company file open.
-- Zeno for QuickBooks Desktop, installed on that same PC from
+- Zeno, installed on that same PC from
   [zenofirm.com/quickbooks-desktop](https://zenofirm.com/quickbooks-desktop).
   The installer provides the `qb_*` tools and connects them to Claude, the
   ChatGPT desktop app and Codex. Quit and reopen your chat client after it
@@ -42,9 +42,9 @@ The tools it describes come from the separately installed Zeno program, which
 runs on the workstation and talks to QuickBooks through Intuit's QuickBooks
 Desktop SDK. That program keeps its journal and local copy of the books on the
 same PC. It makes network calls only for these purposes: one anonymous check
-for a newer release at zenofirm.com, and, if a firm enrolls the workstation in
-a Zeno Cloud account, the exchange with api.zenofirm.com that enrollment
-describes. The licence check is offline. See the
+for a newer release at zenofirm.com, and, if the workstation is linked to a
+Zeno account for the bank feed add-on, the exchange with api.zenofirm.com that
+carries bank transactions to it. The licence check is offline. See the
 [privacy policy](https://zenofirm.com/privacy) and
 [what it cannot do](https://zenofirm.com/docs/quickbooks-desktop/limits).
 
