@@ -1,7 +1,7 @@
 {
   "name": "zeno-quickbooks-desktop",
   "displayName": "Zeno",
-  "version": "1.17.0",
+  "version": "1.18.2",
   "description": "Bookkeeping workflows for QuickBooks Desktop through Zeno, installed on Windows: set up company files, answer questions from the books, prepare batches a person reviews before anything posts, correct posted work, and keep a record for the next session.",
   "author": {
     "name": "Zeno Services, LLC",
