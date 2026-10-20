@@ -2,6 +2,8 @@
 
 [![Latest release](https://img.shields.io/github/v/release/Zeno-Services/zeno-quickbooks-desktop?label=latest%20release)](https://github.com/Zeno-Services/zeno-quickbooks-desktop/releases/latest)
 
+[![Zeno Bookkeeper for QuickBooks Desktop on mcprush](https://mcprush.com/badge/zeno-for-quickbooks-desktop-mcp/card.svg)](https://mcprush.com/to/zeno-for-quickbooks-desktop-mcp?ref=badge)
+
 Bookkeeping in QuickBooks Desktop with a person's review before anything posts.
 This plugin teaches Claude, Codex and the ChatGPT desktop app how to work a
 QuickBooks Desktop company file through Zeno: set up and register company
