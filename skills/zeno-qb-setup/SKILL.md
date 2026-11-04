@@ -27,5 +27,15 @@ that condition before troubleshooting anything else. Admin is needed only to
 grant the permission: afterwards any user may be signed in, and the login
 chosen in the "always allow" dialog is used only when nobody has the file open.
 
+Tell the user that Zeno does not ask for personal data (Social Security
+numbers, card numbers, payroll figures), so QuickBooks can open a closed file
+in the background. The cost is QuickBooks' eight payroll reports, which stay
+off. Everything else works, including payroll transactions already in the
+books. A firm that needs those reports can ask Zeno support to turn them on,
+but that covers the whole workstation: any client file may then need to be
+open in QuickBooks for Zeno to reach it. The change applies once the chat app
+is restarted.
+If the dialog shows a personal-data box, leave it unticked.
+
 Offer `qb_sync_mirror` followed by a harmless question as the end-to-end test.
 Do not post or create anything in QuickBooks during setup.
