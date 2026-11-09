@@ -22,5 +22,5 @@
   "supportUrl": "https://zenofirm.com/support",
   "privacyPolicyUrl": "https://zenofirm.com/privacy",
   "termsOfServiceUrl": "https://zenofirm.com/quickbooks-desktop/eula",
-  "icon": "./.claude-plugin/icon.svg"
+  "icon": "./assets/zeno-logo.png"
 }
