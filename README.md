@@ -11,6 +11,17 @@ files, answer questions from the books, prepare batches of bills, checks,
 journal entries, invoices and payments for a person to approve, correct work
 that is already posted, and leave a record the next session can pick up.
 
+## See it
+
+![Ask your AI, review the plan in Zeno, and post to QuickBooks Desktop only after you approve](assets/screenshots/ask-review-post.png)
+
+*Illustration on Intuit's sample company, Quality-Built Construction. The
+amounts are from a real plan; the chat is paraphrased.*
+
+| A card statement prepared for review | Bank and card lines coded by your rules | Every posted entry and how to undo it |
+| --- | --- | --- |
+| ![Plan with ten lines ready to approve and one left out until its receipt arrives](assets/screenshots/plan-review.png) | ![Bank feed with lines coded by saved rules](assets/screenshots/bank-feed.png) | ![A posted run with each entry's QuickBooks ID](assets/screenshots/run-detail.png) |
+
 ## What you need
 
 - A Windows PC with QuickBooks Desktop (Pro, Premier, Accountant or
@@ -47,7 +58,7 @@ runs on the workstation and talks to QuickBooks through Intuit's QuickBooks
 Desktop SDK. That program keeps its journal and local copy of the books on the
 same PC. It makes network calls only for these purposes: one anonymous check
 for a newer release at zenofirm.com, and, if the workstation is linked to a
-Zeno account for the bank feed add-on, the exchange with api.zenofirm.com that
+Zeno account for the AI Bank Feeds add-on, the exchange with api.zenofirm.com that
 carries bank transactions to it. The licence check is offline. See the
 [privacy policy](https://zenofirm.com/privacy) and
 [what it cannot do](https://zenofirm.com/docs/quickbooks-desktop/limits).
